@@ -5,6 +5,6 @@ to extract interesting data (Average, Variance, Deviation, Covariance, Correlati
 # usage : 
 Install the missing libs from the requirements.txt file
 
-your data in the source.txt file
+your data in the source.txt file (there is some exapmles in source.txt and source1.txt)
 
 python my_main to start the script.
